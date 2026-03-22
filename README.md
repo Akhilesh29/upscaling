@@ -1,3 +1,1 @@
-# Knowledge Upgrade
-
-This repository is dedicated to upgrading knowledge through various resources and tutorials.
+Scaling Hotstar for 25 million concurrent viewers-https://youtu.be/QjvyiyH4rr0?si=WyGcIFjIm5yD0RTX
