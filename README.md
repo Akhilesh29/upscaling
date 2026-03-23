@@ -16,7 +16,7 @@ YC W26 Remote Companies:
 | Compresr | Ivan Zakazov (CEO), Oussama Gabouj (CTO) |
 | ramAIn | Shourya Vir Jain (CEO) |
 | Mendral | Sam Alba |
-| Bubble Lab | — |
+| Bubble Lab | Zach (Ziyue) Zhong(CTO)|
 | Crow | — |
 | Polymath Labs | — |
 | Jinba | Shoya Matsumori (CEO), Takuya Norisugi (COO) |
