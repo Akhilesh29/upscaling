@@ -15,7 +15,7 @@ YC W26 Remote Companies:
 | Sparkles | Daniil Bekirov (CEO, Solo founder) |
 | Compresr | Ivan Zakazov (CEO), Oussama Gabouj (CTO) |
 | ramAIn | Shourya Vir Jain (CEO) |
-| Mendral | — |
+| Mendral | Sam Alba |
 | Bubble Lab | — |
 | Crow | — |
 | Polymath Labs | — |
