@@ -23,7 +23,7 @@ YC W26 Remote Companies:
 | EigenPal | — |
 | Corvera | Chris (CEO), Dirk (CTO) |
 | Fed10 | — |
-| MouseCat | — |
+| MouseCat | Joseph McAllister(CTO) |
 | Arzule | — |
 | Luel | William Namgyal (CEO), Inigo (Co-founder) |
 | Byteport | Jayram Palamadai (CEO, Solo founder) |
