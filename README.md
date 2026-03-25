@@ -30,7 +30,7 @@ YC W26 Remote Companies:
 | MouseCat | Joseph McAllister(CTO) |
 | Arzule | — |
 | Luel | William Namgyal (CEO), Inigo (Co-founder) |
-| Byteport | Jayram Palamadai (CEO, Solo founder) |
+| Byteport | Jayram Palamadai (CEO) |
 | Shofo | — |
 | Chamber | — |
 | Cumulus Labs | — |
