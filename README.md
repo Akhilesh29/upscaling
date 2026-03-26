@@ -12,6 +12,8 @@ https://medium.com/groupon-eng/scaling-millions-of-geospatial-queries-per-minute
 
 https://www.netguru.com/blog/scalable-backend-with-golang
 
+https://medium.com/the-knowledge-hub/most-commonly-asked-system-design-interview-questions-c011911768e3
+
 YC W26 Remote Companies:
 
 | Company | CEO / CTO / Founder |
