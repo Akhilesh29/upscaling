@@ -14,6 +14,8 @@ https://www.netguru.com/blog/scalable-backend-with-golang
 
 https://medium.com/the-knowledge-hub/most-commonly-asked-system-design-interview-questions-c011911768e3
 
+https://redis.io/blog/guide-to-cache-optimization-strategies/
+
 YC W26 Remote Companies:
 
 | Company | CEO / CTO / Founder |
