@@ -4,6 +4,8 @@ X algo understanding : https://github.com/twitter/the-algorithm
 
 How JioCinema Scaled IPL Streaming to Millions Without Downtime:https://youtu.be/E1socIMswyc?si=uHMaLwA0oTWwGE0x
 
+https://medium.com/@eshwar.koride7/everything-about-elasticsearch-a8f36757457e
+
 Reducing Latency: https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241
 
 https://nadh.in/blog/code-is-cheap/
