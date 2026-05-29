@@ -6,7 +6,8 @@ X algo understanding : https://github.com/twitter/the-algorithm
 
 How JioCinema Scaled IPL Streaming to Millions Without Downtime:https://youtu.be/E1socIMswyc?si=uHMaLwA0oTWwGE0x
 
-blinkit system design: <img width="1230" height="780" alt="Screenshot 2026-05-29 at 12 40 30 PM" src="https://github.com/user-attachments/assets/e706c69b-590a-4b7c-bd28-cf69630cfb8f" /
+blinkit system design hld : <img width="1230" height="780" alt="Screenshot 2026-05-29 at 12 40 30 PM" src="https://github.com/user-attachments/assets/aef635dd-91ef-494f-bb8c-a56f94b78078" />
+
 
 https://www.reddit.com/r/developersIndia/comments/1f4tg43/please_rate_my_high_level_design_for/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
