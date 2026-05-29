@@ -6,6 +6,8 @@ X algo understanding : https://github.com/twitter/the-algorithm
 
 How JioCinema Scaled IPL Streaming to Millions Without Downtime:https://youtu.be/E1socIMswyc?si=uHMaLwA0oTWwGE0x
 
+blinkit system design: <img width="1230" height="780" alt="Screenshot 2026-05-29 at 12 40 30 PM" src="https://github.com/user-attachments/assets/e706c69b-590a-4b7c-bd28-cf69630cfb8f" />
+
 https://arpitbhayani.me/blogs/bloom-filters/
 
 https://medium.com/@eshwar.koride7/everything-about-elasticsearch-a8f36757457e
