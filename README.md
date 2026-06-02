@@ -13,6 +13,14 @@ https://www.reddit.com/r/developersIndia/comments/1f4tg43/please_rate_my_high_le
 
 https://arpitbhayani.me/blogs/bloom-filters/
 
+phonepe and super.money upi differ:
+
+phonepe:
+![Uploading Screenshot 2026-06-02 at 3.52.59 PM.png…]()
+
+super.money:
+![Uploading Screenshot 2026-06-02 at 3.54.38 PM.png…]()
+
 https://medium.com/@eshwar.koride7/everything-about-elasticsearch-a8f36757457e
 
 Reducing Latency: https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241
