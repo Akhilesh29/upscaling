@@ -22,6 +22,8 @@ https://medium.com/@eshwar.koride7/everything-about-elasticsearch-a8f36757457e
 
 Reducing Latency: https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241
 
+https://youtu.be/bwt09KXDH94?si=YZfOrXL9WBH_pFeh
+
 https://nadh.in/blog/code-is-cheap/
 
 https://medium.com/groupon-eng/scaling-millions-of-geospatial-queries-per-minute-using-redis-7c05bcf6b4db
