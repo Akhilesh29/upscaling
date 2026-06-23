@@ -22,6 +22,8 @@ phonepe and super.money upi differ:
 
 https://medium.com/@eshwar.koride7/everything-about-elasticsearch-a8f36757457e
 
+https://youtu.be/CZ3wIuvmHeM?si=PoiBlLgqE4Pwd-B3
+
 Reducing Latency: https://medium.com/@utsavmadaan823/how-we-slashed-api-response-times-by-50-with-go-compiler-optimizations-3c2592c2d241
 
 https://youtu.be/bwt09KXDH94?si=YZfOrXL9WBH_pFeh
