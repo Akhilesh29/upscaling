@@ -8,6 +8,8 @@ https://aws.amazon.com/blogs/database/how-zepto-scales-to-millions-of-orders-per
 
 X algo understanding : https://github.com/twitter/the-algorithm
 
+https://www.uber.com/in/en/blog/uber-eats-search-pipeline/
+
 https://netflixtechblog.com/
 
 https://youtu.be/W8LDyEOPaPY?si=0UWqDW7_DjDYlXow
