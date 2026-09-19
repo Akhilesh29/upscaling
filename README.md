@@ -1,5 +1,7 @@
 https://stripe.com/in/resources/more/cross-border-payments-explained
 
+https://research.atspotify.com/search-recommendations
+
 https://www.bhupeshkumar.blog/blogs/why-delivery-apps-stop-trusting-google-maps
 
 Scaling Hotstar for 25 million concurrent viewers-https://youtu.be/QjvyiyH4rr0?si=WyGcIFjIm5yD0RTX
