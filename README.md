@@ -1,5 +1,7 @@
 https://stripe.com/in/resources/more/cross-border-payments-explained
 
+https://medium.com/strava-engineering
+
 https://research.atspotify.com/search-recommendations
 
 https://www.bhupeshkumar.blog/blogs/why-delivery-apps-stop-trusting-google-maps
