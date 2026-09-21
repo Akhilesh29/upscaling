@@ -6,6 +6,8 @@ https://research.atspotify.com/search-recommendations
 
 https://www.bhupeshkumar.blog/blogs/why-delivery-apps-stop-trusting-google-maps
 
+https://medium.com/zomato-technology/the-deep-tech-behind-estimating-food-preparation-time-e5068807acb0
+
 Scaling Hotstar for 25 million concurrent viewers-https://youtu.be/QjvyiyH4rr0?si=WyGcIFjIm5yD0RTX
 
 https://aws.amazon.com/blogs/database/how-zepto-scales-to-millions-of-orders-per-day-using-amazon-dynamodb/
