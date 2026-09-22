@@ -20,6 +20,8 @@ X algo understanding : https://github.com/twitter/the-algorithm
 
 https://www.uber.com/in/en/blog/uber-eats-search-pipeline/
 
+https://medium.com/zepto-test/route-iq-how-we-reconstruct-delivery-paths-from-noisy-gps-at-scale-6898d3260ed2
+
 https://netflixtechblog.com/
 
 https://youtu.be/W8LDyEOPaPY?si=0UWqDW7_DjDYlXow
