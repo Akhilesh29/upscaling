@@ -20,6 +20,8 @@ X algo understanding : https://github.com/twitter/the-algorithm
 
 https://www.uber.com/in/en/blog/uber-eats-search-pipeline/
 
+https://tech.phonepe.com/the-kafka-edge-managing-100-billion-daily-events-at-phonepe/
+
 https://uxplanet.org/google-maps-vs-apple-maps-subtle-ux-choices-that-shape-how-we-navigate-a58a1c60ad10
 
 https://medium.com/zepto-test/route-iq-how-we-reconstruct-delivery-paths-from-noisy-gps-at-scale-6898d3260ed2
