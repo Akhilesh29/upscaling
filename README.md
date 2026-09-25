@@ -22,6 +22,8 @@ https://www.uber.com/us/en/blog/from-static-rate-limiting-to-intelligent-load-ma
 
 https://www.uber.com/in/en/blog/uber-eats-search-pipeline/
 
+https://medium.com/swiggy-bytes/ordering-biryani-without-missing-a-six-the-swiggy-jiohotstar-story-601a22cc340e
+
 https://tech.phonepe.com/the-kafka-edge-managing-100-billion-daily-events-at-phonepe/
 
 https://uxplanet.org/google-maps-vs-apple-maps-subtle-ux-choices-that-shape-how-we-navigate-a58a1c60ad10
