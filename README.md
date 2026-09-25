@@ -28,6 +28,8 @@ https://medium.com/zepto-test/route-iq-how-we-reconstruct-delivery-paths-from-no
 
 https://netflixtechblog.com/
 
+https://tech.phonepe.com/scaling-from-zero-to-150mn-users-in-3-years/
+
 https://youtu.be/W8LDyEOPaPY?si=0UWqDW7_DjDYlXow
 
 https://docs.google.com/document/d/1lHKI6bia3ZEPoAKgXWIm_SKv_Sii1qtN3EYMEdxKpEQ/edit?tab=t.0
