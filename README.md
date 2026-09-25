@@ -18,6 +18,8 @@ https://aws.amazon.com/blogs/database/how-zepto-scales-to-millions-of-orders-per
 
 X algo understanding : https://github.com/twitter/the-algorithm
 
+https://www.zomato.com/blog/how-we-increased-our-zomato-restaurant-partner-app-speed-by-over-90/
+
 https://www.uber.com/us/en/blog/from-static-rate-limiting-to-intelligent-load-management/?uclick_id=027a3976-09fb-46a8-91b2-92cd4ff869aa
 
 https://www.uber.com/in/en/blog/uber-eats-search-pipeline/
