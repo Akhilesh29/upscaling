@@ -10,6 +10,8 @@ https://www.uber.com/in/en/blog/high-performance-grpc/?uclick_id=d8e029fd-089e-4
 
 https://www.zomato.com/blog/rethinking-zomato-search-pt-1/
 
+https://www.zomato.com/blog/category/technology/
+
 https://www.bhupeshkumar.blog/blogs/why-delivery-apps-stop-trusting-google-maps
 
 https://medium.com/zomato-technology/the-deep-tech-behind-estimating-food-preparation-time-e5068807acb0
