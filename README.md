@@ -12,6 +12,8 @@ https://engineering.slice.bank.in/building-slices-chatbot-an-engineering-journey
 
 https://engineering.slice.bank.in/building-slices-chatbot-an-engineering-journey-series-2-66439040e700
 
+https://blog.hotstar.com/journey-of-an-ad-request-the-hidden-engineering-e7b7f9921e46
+
 https://www.uber.com/in/en/blog/high-performance-grpc/?uclick_id=d8e029fd-089e-4acc-af1d-81671a170aaf
 
 https://www.zomato.com/blog/rethinking-zomato-search-pt-1/
