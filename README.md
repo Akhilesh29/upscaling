@@ -6,6 +6,8 @@ https://www.uber.com/in/en/blog/how-uber-serves-over-150-million-reads/?uclick_i
 
 https://research.atspotify.com/search-recommendations
 
+https://engineering.slice.bank.in/one-autovacuum-away-partitioning-slices-billion-row-transaction-tables-with-no-planned-downtime-e7bf69fc1d99
+
 https://www.uber.com/in/en/blog/high-performance-grpc/?uclick_id=d8e029fd-089e-4acc-af1d-81671a170aaf
 
 https://www.zomato.com/blog/rethinking-zomato-search-pt-1/
