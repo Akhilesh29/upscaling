@@ -22,6 +22,8 @@ https://www.zomato.com/blog/category/technology/
 
 https://www.bhupeshkumar.blog/blogs/why-delivery-apps-stop-trusting-google-maps
 
+https://www.reddit.com/r/RedditEng/comments/1t3siuf/preventing_runtime_regressions_in_graphql_using/
+
 https://medium.com/zomato-technology/the-deep-tech-behind-estimating-food-preparation-time-e5068807acb0
 
 Scaling Hotstar for 25 million concurrent viewers-https://youtu.be/QjvyiyH4rr0?si=WyGcIFjIm5yD0RTX
