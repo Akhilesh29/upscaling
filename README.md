@@ -38,6 +38,8 @@ https://www.uber.com/us/en/blog/from-static-rate-limiting-to-intelligent-load-ma
 
 https://www.uber.com/in/en/blog/uber-eats-search-pipeline/
 
+https://careersatdoordash.com/blog/doordash-optimizing-in-house-search-engine-platform/
+
 https://medium.com/swiggy-bytes/ordering-biryani-without-missing-a-six-the-swiggy-jiohotstar-story-601a22cc340e
 
 https://tech.phonepe.com/the-kafka-edge-managing-100-billion-daily-events-at-phonepe/
