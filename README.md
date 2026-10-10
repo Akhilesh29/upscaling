@@ -20,6 +20,8 @@ https://www.zomato.com/blog/rethinking-zomato-search-pt-1/
 
 https://www.zomato.com/blog/category/technology/
 
+https://www.linkedin.com/pulse/impact-biggest-surprise-swiggys-transition-native-pays-4kmwc/
+
 https://www.bhupeshkumar.blog/blogs/why-delivery-apps-stop-trusting-google-maps
 
 https://www.reddit.com/r/RedditEng/comments/1t3siuf/preventing_runtime_regressions_in_graphql_using/
