@@ -64,6 +64,8 @@ https://www.youtube.com/watch?v=DQwlmTvs6xA
 
 https://spacetimedb.com/blog/how-does-spacetime-scale
 
+https://www.seangoedecke.com/how-to-ship/
+
 How JioCinema Scaled IPL Streaming to Millions Without Downtime:https://youtu.be/E1socIMswyc?si=uHMaLwA0oTWwGE0x
 
 blinkit system design hld : <img width="1230" height="780" alt="Screenshot 2026-05-29 at 12 40 30 PM" src="https://github.com/user-attachments/assets/aef635dd-91ef-494f-bb8c-a56f94b78078" />
