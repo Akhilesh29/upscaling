@@ -22,6 +22,8 @@ https://www.zomato.com/blog/category/technology/
 
 https://www.youtube.com/watch?v=kjGP_kBQdVc&t=763s
 
+https://www.zomato.com/blog/search-that-reads-intent-not-just-strings/
+
 https://www.linkedin.com/pulse/impact-biggest-surprise-swiggys-transition-native-pays-4kmwc/
 
 https://www.uber.com/us/en/blog/ai-code-cleanup/
