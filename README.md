@@ -20,6 +20,8 @@ https://www.zomato.com/blog/rethinking-zomato-search-pt-1/
 
 https://www.zomato.com/blog/category/technology/
 
+https://investor.luckincoffee.com/news-releases/news-release-details/luckin-coffee-showcases-end-end-digital-intelligence-innovations
+
 https://www.youtube.com/watch?v=kjGP_kBQdVc&t=763s
 
 https://www.zomato.com/blog/search-that-reads-intent-not-just-strings/
