@@ -24,6 +24,8 @@ https://investor.luckincoffee.com/news-releases/news-release-details/luckin-coff
 
 https://www.youtube.com/watch?v=kjGP_kBQdVc&t=763s
 
+https://x.com/addyosmani/status/2117512471930167377?a=fxPSlZgDJXCPu164pA8&s=46
+
 https://www.zomato.com/blog/search-that-reads-intent-not-just-strings/
 
 https://www.linkedin.com/pulse/impact-biggest-surprise-swiggys-transition-native-pays-4kmwc/
